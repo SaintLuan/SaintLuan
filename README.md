@@ -15,6 +15,5 @@ For most projects I am envolved, I'm using Next and React.js for dev.
 <ul>
 <li>Next.js</li>
 <li>React.js</li>
-<li>CSS.js</li>
-<li>JavaScript.js</li>
+<li>CSS</li>
 </ul>
