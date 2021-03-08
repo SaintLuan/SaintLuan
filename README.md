@@ -1,5 +1,5 @@
 <h1>Hello there! I'm Luan </h1>
 <!-- 3e3176 -->
-<p align="center">
-    ![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
+<p>
+    <img src="https://img.shields.io/static/v1?label=&message=MasterComps&color=3e3176&style=for-the-badge&logo=ghost"/>
 </p>
