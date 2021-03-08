@@ -8,4 +8,5 @@
 <h2>About Me</h2>
 
 I'm a Fron-End developer, with some knowledges with Back-End technologys, as PHP and Node.
-My regular technologys is React and Next.js.
+<br>
+For most projects i'm envolved, i1m using Next and React.js for dev.
