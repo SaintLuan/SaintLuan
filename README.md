@@ -7,7 +7,9 @@
 
 <h2>About Me</h2>
 
-Hello, my name is Luan, I'm 20 years old and I'm an Information System student. I'm working as a Front-End Web Developer, using the following technologies: React.js, Next.js and Typescript. With previous notions of Back-End, in PHP and Node.js technologies, and intermediate knowledge in database (Mysql).
+<p>
+    Hello, my name is Luan, I'm 20 years old and I'm an Information System student. I'm working as a Front-End Web Developer, using the following technologies: React.js, Next.js and Typescript. With previous notions of Back-End, in PHP and Node.js technologies, and intermediate knowledge in database (Mysql).
+</p>
 <br>
 For most projects I am envolved, I'm using Next and React.js for dev.
 
