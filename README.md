@@ -1,9 +1,7 @@
 # Hi, I'm Fagner! :D
 
-[![GitHub Badge](https://img.shields.io/badge/MasterComps-%237159c1?style=for-the-badge&logo=ghost&link=https://github.com/SaintLuan)](https://github.com/SaintLuan)
-
-[![MasterComps Badge](https://img.shields.io/badge/MasterComps-%237159c1?style=for-the-badge&logo=ghost&link=https://www.linkedin.com/in/luan-santos-864693155)](https://www.linkedin.com/in/luan-santos-864693155/)
-
+[![GitHub Badge](https://img.shields.io/badge/Github-%237159c1?style=for-the-badge&logo=ghost&link=https://github.com/SaintLuan)](https://github.com/SaintLuan)
+[![MasterComps Badge](https://img.shields.io/badge/Linkedin-%237159c1?style=for-the-badge&logo=ghost&link=https://www.linkedin.com/in/luan-santos-864693155)](https://www.linkedin.com/in/luan-santos-864693155/)
 [![MasterComps Badge](https://img.shields.io/badge/MasterComps-%237159c1?style=for-the-badge&logo=ghost&link=https://www.https://www.mastercomps.com.br)](https://www.mastercomps.com.br)
 
 ## About me
