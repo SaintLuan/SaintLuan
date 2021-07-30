@@ -4,10 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&link=https://www.linkedin.com/in/luan-santos-864693155)](https://www.linkedin.com/in/luan-santos-864693155/)
 [![MasterComps Badge](https://img.shields.io/badge/MasterComps-%237159c1?style=for-the-badge&logo=ghost&link=https://www.https://www.mastercomps.com.br)](https://www.mastercomps.com.br)
 
- <div>
+<div>
   <a href="https://github.com/SaintLuan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaintLuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintLuan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaintLuan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintLuan&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ## About me
