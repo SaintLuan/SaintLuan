@@ -1,8 +1,12 @@
 # Hi, I'm Luan! :D
 
-[![GitHub Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=GitHub&link=https://github.com/SaintLuan)](https://github.com/SaintLuan)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&link=https://www.linkedin.com/in/luan-santos-864693155)](https://www.linkedin.com/in/luan-santos-864693155/)
-[![MasterComps Badge](https://img.shields.io/badge/MasterComps-%237159c1?style=for-the-badge&logo=ghost&link=https://www.https://www.mastercomps.com.br)](https://www.mastercomps.com.br)
+<div> 
+  <a href="https://mastercomps.com.br" target="_blank"><img src="https://img.shields.io/badge/MasterComps-%237159c1?style=for-the-badge&logo=ghost" target="_blank"></a>
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:saint.business@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-santos-864693155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 <div>
   <a href="https://github.com/SaintLuan">
