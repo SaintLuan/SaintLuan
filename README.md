@@ -14,7 +14,7 @@
 </div>
 
 ## About me
-Hello, my name is Luan, I'm 22 years old and I'm an Information System student. I'm working as a Front-End Web Developer, using the following technologies: React.js, Next.js and Typescript. With previous notions of Back-End, in PHP and Node.js technologies, and intermediate knowledge in database (Mysql).
+Hello, my name is Luan, I'm 22 years old and I'm a Full Stack Developer and Front End Specialist. With a a degree in Information Systems, started to work with programing when I was 16 years old, an since then I`ve been studying and working with it.
 
 - [Website](https://www.mastercomps.com.br) 💻 
 
@@ -22,8 +22,10 @@ For most projects I am envolved, I'm using Next and React.js for dev.
 
 <h2>Technologies</h2>
 <ul>
+    <li>Typescript</li>
     <li>Next.js</li>
     <li>React.js</li>
-    <li>Typescript</li>
-    <li>CSS</li>
+    <li>Node.js</li>
+    <li>PHP</li>
+    <li>CSS | SASS | Styled Components</li>
 </ul>
