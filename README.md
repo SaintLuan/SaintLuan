@@ -38,6 +38,7 @@ I work end-to-end: **API design, database modeling, backend logic, UI implementa
 ## Core stack
 
 ### Backend
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -45,6 +46,7 @@ I work end-to-end: **API design, database modeling, backend logic, UI implementa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Frontend
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
@@ -52,6 +54,7 @@ I work end-to-end: **API design, database modeling, backend logic, UI implementa
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ### Practices I care about
+
 - MVC and service-layer architecture
 - Readable, testable, and maintainable code
 - Responsive UI and accessible interfaces
@@ -62,13 +65,13 @@ I work end-to-end: **API design, database modeling, backend logic, UI implementa
 
 ## What I deliver
 
-| Area | Examples |
-|------|----------|
-| **Backend** | Laravel apps, REST APIs, admin panels, document workflows, role-based access |
-| **Frontend** | React/Next.js SPAs, Blade templates, component-driven UI, Sass design systems |
-| **Database** | Relational modeling, migrations, query optimization, structured content |
-| **Integrations** | SMTP, reCAPTCHA, third-party APIs, file uploads, image processing |
-| **DevOps** | Dockerized environments, Apache/PHP stacks, CI-friendly project structure |
+| Area             | Examples                                                                      |
+| ---------------- | ----------------------------------------------------------------------------- |
+| **Backend**      | Laravel apps, REST APIs, admin panels, document workflows, role-based access  |
+| **Frontend**     | React/Next.js SPAs, Blade templates, component-driven UI, Sass design systems |
+| **Database**     | Relational modeling, migrations, query optimization, structured content       |
+| **Integrations** | SMTP, reCAPTCHA, third-party APIs, file uploads, image processing             |
+| **DevOps**       | Dockerized environments, Apache/PHP stacks, CI-friendly project structure     |
 
 Recent focus: **institutional platforms**, **CMS-backed content**, **multi-section document libraries**, and **admin dashboards** for business-critical operations.
 
@@ -76,42 +79,16 @@ Recent focus: **institutional platforms**, **CMS-backed content**, **multi-secti
 
 ## GitHub activity
 
-Standard contribution timeline — including private repository activity when configured.
-
 <div align="center">
 
-![GitHub contribution heatmap](./output/github/contributions-heatmap.svg)
+<img src="./output/github/stats.svg" height="195" alt="GitHub stats" />
+<img src="./output/github/most-commit-language.svg" height="195" alt="Most used languages" />
+<img src="./output/github/streak.svg" height="195" alt="Contribution streak" />
+<img src="./output/github/profile-details.svg" height="195" alt="Profile details" />
 
-<table>
-  <tr>
-    <td width="50%">
-
-![GitHub stats](./output/github/stats.svg)
-
-    </td>
-    <td width="50%">
-
-![Most used languages](./output/github/most-commit-language.svg)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-![Contribution streak](./output/github/streak.svg)
-
-    </td>
-    <td width="50%">
-
-![Profile details](./output/github/profile-details.svg)
-
-    </td>
-  </tr>
-</table>
+![Contributions](https://github-contribution-merger.apoorvdarshan.com/api/merge?users=SaintLuan%2Cluan-futcorp&colors=39d353)
 
 </div>
-
-> Cards are generated automatically by GitHub Actions. Private activity is included via PAT — see setup below.
 
 ---
 
@@ -134,29 +111,3 @@ Standard contribution timeline — including private repository activity when co
 [![MasterComps](https://img.shields.io/badge/Website-mastercomps.com.br-7159c1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mastercomps.com.br)
 
 </div>
-
----
-
-<details>
-<summary><strong>Setup — private contributions on the standard GitHub timeline</strong></summary>
-
-### 1. Enable private contributions on GitHub
-
-1. Open your [GitHub profile](https://github.com/SaintLuan)
-2. Above the contribution graph, click **Contribution settings**
-3. Enable **Private contributions**
-
-This shows anonymized activity from private repos on the official profile graph. No code or repo names are exposed.
-
-### 2. Generate the heatmap cards in this README
-
-1. Create a public repository named **`SaintLuan`** (same as your username)
-2. Copy this `README.md` and `.github/workflows/ghstats.yml` into it
-3. Create a [classic Personal Access Token](https://github.com/settings/tokens/new) with scopes **`read:user`** and **`repo`**
-4. In the repo, go to **Settings → Secrets and variables → Actions**
-5. Add secret **`GHSTATS_TOKEN`** with your PAT
-6. Run the workflow manually: **Actions → ghstats → Run workflow**
-
-After the first run, the standard **7×53 contribution grid** appears in this README with private repo activity included.
-
-</details>
